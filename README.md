@@ -4,6 +4,7 @@
 This Power BI project provides a comprehensive analysis of automobile performance and fuel efficiency trends. It focuses on metrics like Miles Per Gallon (MPG), Horsepower, Weight, and Cylinders, visualized over time to understand fuel efficiency growth and car performance factors.
 
 The report includes interactive visuals, trend analysis, and forecast insights, making it useful for data-driven decision-making in the automotive industry.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6c0e4737-bea8-45ce-b7c0-19bc770a198c" />
 
 🧩 Key Features
 
