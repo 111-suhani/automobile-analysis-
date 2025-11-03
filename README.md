@@ -77,6 +77,9 @@ Page 1: Fuel Efficiency Overview
 Page 2: Yearly Growth
 
 Page 6: Advanced Visuals
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ff41d892-1799-4596-9715-0eed2bcdcf36" />
+
+
 
 🚀 How to Use
 
