@@ -48,6 +48,8 @@ Weight and horsepower are inversely related to MPG — heavier cars tend to be l
 
 The forecast model indicates a steady improvement in fuel efficiency for newer models.
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/94612d94-5cff-4fe6-a895-1bf76dfbaed7" />
+
 🛠️ Tools and Technologies
 
 Microsoft Power BI Desktop
